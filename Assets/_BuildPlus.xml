@@ -1,0 +1,19 @@
+<Build xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xmlVersion>0</xmlVersion>
+  <versions>
+    <Version>
+      <major>0</major>
+      <minor>0</minor>
+      <build>1</build>
+      <revision />
+      <date>2020-06-14T13:03:00</date>
+      <dateString>2020.06.14.1303</dateString>
+      <notes>
+        <Note>
+          <category>General</category>
+          <description>Init</description>
+        </Note>
+      </notes>
+    </Version>
+  </versions>
+</Build>

@@ -1,0 +1,23 @@
+{
+  "name": "trismegistus.unity.mathf-extensions",
+  "version": "0.0.1",
+  "displayName": "Trismegistus Mathf Ext",
+  "description": "Mathf extensions for more RX-ish style",
+  "unity": "2019.2",
+  "keywords": [
+    "unity",
+    "tool",
+    "math",
+    "extension"
+  ],
+  "author": {
+    "name": "Hermesis",
+    "email": "hermesiss@gmail.com",
+    "url": "https://github.com/Hermesiss"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/Hermesiss/unity-mathf-extensions",
+  "bugs": {
+    "url": "https://github.com/Hermesiss/unity-mathf-extensions/issues"
+  }
+}
