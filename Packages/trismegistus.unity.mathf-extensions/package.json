@@ -1,6 +1,6 @@
 {
   "name": "trismegistus.unity.mathf-extensions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Trismegistus Mathf Ext",
   "description": "Mathf extensions for more RX-ish style",
   "unity": "2019.2",

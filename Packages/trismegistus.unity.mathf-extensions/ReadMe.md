@@ -13,6 +13,14 @@ instead of
 var result = a * b * .5f * (Mathf.Atan(a / b * Mathf.Tan(a2)) - Mathf.Atan(a / b * Mathf.Tan(a1)));
 ```
 
+## Features
+
+* All `UnityEngine.Mathf` methods
+* Standard [operators and expressions](https://docs.microsoft.com/en-gb/dotnet/csharp/language-reference/operators/)
+  * Arithmetical `Add`, `Sub`, `Mul`, `Div`, `Frac`
+  * Logical `Neg`, `And`, `Or`, `Xor`, `AndCond`, `OrCond`
+  * Bitwise `BitComplement`, `BitLeftShift`, `BitRightShift`, `BitAnd`, `BitOr`, `BitXor`
+  * Comparison `Less`, `LessEqual`, `Great`, `GreatEqual`
 
 ## Installation
 
@@ -40,4 +48,4 @@ Then open `Window/Package manager`, `All packages`, and install `Trismegistus Ma
 
 1. Open `Window/Package manager`
 2. `+`, `Add from git URL`
-3. Enter `https://github.com/Hermesiss/unity-mathf-extensions.git?path=/trismegistus.unity.mathf-extensions`
+3. Enter `https://github.com/Hermesiss/unity-mathf-extensions.git?path=/Packages/trismegistus.unity.mathf-extensions`

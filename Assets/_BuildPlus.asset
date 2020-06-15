@@ -15,6 +15,28 @@ MonoBehaviour:
   build:
     xmlVersion: 0
     versions:
+    - major: 1
+      minor: 0
+      build: 0
+      revision: 
+      dateString: 2020.06.15.2302
+      notes:
+      - category: 1
+        description: Binary arithmetic extensions
+      - category: 1
+        description: Logical extensions
+      - category: 1
+        description: Bitwise extensions
+      - category: 1
+        description: Comparison extensions
+    - major: 0
+      minor: 0
+      build: 2
+      revision: 
+      dateString: 2020.06.15.2115
+      notes:
+      - category: 6
+        description: Update Readme
     - major: 0
       minor: 0
       build: 1
@@ -23,5 +45,12 @@ MonoBehaviour:
       notes:
       - category: 6
         description: Init
-    releaseNotes: "RELEASE NOTES\r\n\r\nv0.0.1 (2020.06.14.1303)\r\n  GENERAL\r\n   
+    editorSettings:
+      saveToPlayerSettings: 1
+      saveToPackageJson: 1
+      packageJsonPath: Packages\trismegistus.unity.mathf-extensions\package.json
+    releaseNotes: "RELEASE NOTES\r\n\r\nv1.0.0 (2020.06.15.2302)\r\n  FEATURES\r\n   
+      * Binary arithmetic extensions\r\n    * Logical extensions\r\n    * Bitwise
+      extensions\r\n    * Comparison extensions\r\n\r\nv0.0.2 (2020.06.15.2115)\r\n 
+      GENERAL\r\n    * Update Readme\r\n\r\nv0.0.1 (2020.06.14.1303)\r\n  GENERAL\r\n   
       * Init\r\n\r\n"

@@ -2,6 +2,46 @@
   <xmlVersion>0</xmlVersion>
   <versions>
     <Version>
+      <major>1</major>
+      <minor>0</minor>
+      <build>0</build>
+      <revision />
+      <date>2020-06-15T23:02:00</date>
+      <dateString>2020.06.15.2302</dateString>
+      <notes>
+        <Note>
+          <category>Features</category>
+          <description>Binary arithmetic extensions</description>
+        </Note>
+        <Note>
+          <category>Features</category>
+          <description>Logical extensions</description>
+        </Note>
+        <Note>
+          <category>Features</category>
+          <description>Bitwise extensions</description>
+        </Note>
+        <Note>
+          <category>Features</category>
+          <description>Comparison extensions</description>
+        </Note>
+      </notes>
+    </Version>
+    <Version>
+      <major>0</major>
+      <minor>0</minor>
+      <build>2</build>
+      <revision />
+      <date>2020-06-15T21:15:00</date>
+      <dateString>2020.06.15.2115</dateString>
+      <notes>
+        <Note>
+          <category>General</category>
+          <description>Update Readme</description>
+        </Note>
+      </notes>
+    </Version>
+    <Version>
       <major>0</major>
       <minor>0</minor>
       <build>1</build>
@@ -16,4 +56,9 @@
       </notes>
     </Version>
   </versions>
+  <editorSettings>
+    <saveToPlayerSettings>true</saveToPlayerSettings>
+    <saveToPackageJson>true</saveToPackageJson>
+    <packageJsonPath>Packages\trismegistus.unity.mathf-extensions\package.json</packageJsonPath>
+  </editorSettings>
 </Build>

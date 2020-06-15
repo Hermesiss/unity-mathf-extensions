@@ -1,10 +1,9 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using UnityEngine;
 using UnityEngine.Internal;
 
 namespace Trismegistus.MathfExtensions {
-	public static class MathfExtensions {
+	public static class MathfExt {
 		/// <summary>
 		///   <para>Returns the closest power of two value.</para>
 		/// </summary>
